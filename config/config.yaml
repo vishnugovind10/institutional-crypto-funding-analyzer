@@ -1,0 +1,17 @@
+exchanges:
+  binance:
+    api_key: "your_key"
+    secret: "your_secret"
+  bybit:
+    api_key: "your_key"
+    secret: "your_secret"
+  kraken:
+    api_key: "your_key"
+    secret: "your_secret"
+trading:
+  leverage: 5.0
+  fee: 0.0004
+  slippage: 0.0002
+notifications:
+  slack: "https://hooks.slack.com/your/webhook"
+  whatsapp: "your_whatsapp_api"
